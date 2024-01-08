@@ -35,7 +35,7 @@ DEBUG = development
 
 if development:
     ALLOWED_HOSTS = ['localhost',
-                     '8000-nmyhi-boutique-ado-v1-z1so6fuobo.us2.codeanyapp.com']
+                     '8000-nmyhi-boutiqueadov1-6k3py5h1sq1.ws-eu107.gitpod.io']
 else:
     ALLOWED_HOSTS = [os.environ.get('HEROKU_HOSTNAME')]
 
