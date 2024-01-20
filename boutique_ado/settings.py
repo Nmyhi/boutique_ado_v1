@@ -33,7 +33,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 DEBUG = False
 
 
-ALLOWED_HOSTS = ['boutique-ado-mish.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['boutique-ado-mish-238fad263cca.herokuapp.com', 'localhost']
 
 
 # Application definition
